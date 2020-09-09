@@ -1,5 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vegarsti&layout=compact&count_private=true" align="right">
-
 ### Hi!
 
 I'm Vegard. I work at [Cognite](https://cognite.com). We're a SaaS company helping industrial companies digitize. Currently I'm working on a search API for documents. I use Python.
