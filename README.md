@@ -1,8 +1,8 @@
 #### Hi 👋🏻
 
-I'm Vegard. I'm currently trying to learn more about systems programming and programming languages, among others [Golang](https://github.com/vegarsti?tab=repositories&q=&type=&language=go). And I like to read.
+I'm Vegard. I'm a software engineer at [Cognite](https://github.com/cognitedata) where I mostly dabble in Python. On the side, I'm currently trying to learn more about systems programming and programming languages, among others [Golang](https://github.com/vegarsti?tab=repositories&q=&type=&language=go).
 
-I have a [website](https://www.vegardstikbakke.com/)! My favorite posts are
+I have a [website](https://www.vegardstikbakke.com/). My favorite posts are
 - [Problem solving with Unix commands](https://www.vegardstikbakke.com/unix/)
 - [How do Unix pipes work?](https://www.vegardstikbakke.com/how-do-pipes-work-sigpipe/)
 - [I fixed a bug in Python!](https://www.vegardstikbakke.com/python-contribution/)
