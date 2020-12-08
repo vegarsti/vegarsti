@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vegarsti&layout=compact" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vegarsti&layout=compact&exclude_repo=thesis,fhtboost&langs_count=6" align="right">
 
 #### Hi 👋🏻
 
