@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vegarsti&layout=compact&exclude_repo=thesis,fhtboost&langs_count=6" align="right">
 
-#### Hi 👋🏻
+### Hi 👋🏻
 
 I'm Vegard. I'm a software engineer at [Cognite](https://github.com/cognitedata) where I mostly dabble in Python. On the side, I'm currently trying to learn more about systems programming and programming languages, among others [Golang](https://github.com/vegarsti?tab=repositories&q=&type=&language=go).
 
