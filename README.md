@@ -1,10 +1,11 @@
-### Hi!
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vegarsti&layout=compact" align="right">
 
-I'm Vegard. Currently I'm working on a search API for documents at [Cognite](https://cognite.com). I use Python.
+#### Hi 👋🏻
 
-I'm currently trying to learn more about systems programming and programming languages, specifically Golang (see [my repos](https://github.com/vegarsti?tab=repositories&q=&type=&language=go)).
+I'm Vegard. I'm a software engineer at [Cognite](https://github.com/cognitedata) where I mostly dabble in Python. On the side, I'm currently trying to learn more about systems programming and programming languages, among others [Golang](https://github.com/vegarsti?tab=repositories&q=&type=&language=go).
 
-Read [**my blog**](https://vegardstikbakke.com), where I write sometimes.
-
-[![vegarsti's github stats](https://github-readme-stats.vercel.app/api?username=vegarsti&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/vegarsti)
-
+I have a [website](https://www.vegardstikbakke.com/). My favorite posts are
+- [Problem solving with Unix commands](https://www.vegardstikbakke.com/unix/)
+- [How do Unix pipes work?](https://www.vegardstikbakke.com/how-do-pipes-work-sigpipe/)
+- [I fixed a bug in Python!](https://www.vegardstikbakke.com/python-contribution/)
+- [Books I read in 2019](https://www.vegardstikbakke.com/books-2019/)
