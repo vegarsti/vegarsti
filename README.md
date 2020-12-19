@@ -2,7 +2,7 @@
 
 ### Hi 👋🏻
 
-I'm Vegard. I'm a software engineer at [Cognite](https://github.com/cognitedata) where I mostly dabble in Python. On the side, I'm currently trying to learn more about systems programming and programming languages, among others [Golang](https://github.com/vegarsti?tab=repositories&q=&type=&language=go).
+I'm Vegard. I work as a software engineer. I'm currently trying to learn more about systems programming and [Golang](https://github.com/vegarsti?tab=repositories&q=&type=&language=go).
 
 I have a [website](https://www.vegardstikbakke.com/). My favorite posts are
 - [Problem solving with Unix commands](https://www.vegardstikbakke.com/unix/)
