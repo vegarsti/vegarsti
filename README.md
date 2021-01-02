@@ -1,8 +1,8 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vegarsti&layout=compact&exclude_repo=thesis,fhtboost,mal&langs_count=6" align="right"> -->
 
-### Hi 👋🏻
+### Hi!
 
-I'm Vegard. I work as a software engineer. I'm currently trying to learn more about systems programming and [Golang](https://github.com/vegarsti?tab=repositories&q=&type=&language=go).
+I'm Vegard. I work as a software engineer at @duneanalytics. I'm currently trying to learn more about systems programming and [Golang](https://github.com/vegarsti?tab=repositories&q=&type=&language=go).
 
 I have a [website](https://www.vegardstikbakke.com/). My favorite posts are
 - [Problem solving with Unix commands](https://www.vegardstikbakke.com/unix/)
