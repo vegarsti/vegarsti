@@ -2,7 +2,7 @@
 
 ### Hi!
 
-I'm Vegard. I work as a software engineer at @duneanalytics. I'm currently trying to learn more about systems programming and [Golang](https://github.com/vegarsti?tab=repositories&q=&type=&language=go).
+I'm Vegard. I work as a software engineer at [Dune Analytics](https://careers.duneanalytics.com/). I'm currently trying to learn more about databases, systems programming and [Golang](https://github.com/vegarsti?tab=repositories&q=&type=&language=go).
 
 I have a [website](https://www.vegardstikbakke.com/). My favorite posts are
 - [Problem solving with Unix commands](https://www.vegardstikbakke.com/unix/)
