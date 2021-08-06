@@ -4,6 +4,8 @@
 
 I'm Vegard. I work as a software engineer at [Dune Analytics](https://careers.duneanalytics.com/), where I mostly write code in Go. I'm currently trying to learn more about databases!
 
+I track things I learn at [til.vegardstikbakke.com](https://til.vegardstikbakke.com).
+
 I have a [website](https://www.vegardstikbakke.com/). My favorite posts are
 - [Problem solving with Unix commands](https://www.vegardstikbakke.com/unix/)
 - [How do Unix pipes work?](https://www.vegardstikbakke.com/how-do-pipes-work-sigpipe/)
