@@ -2,9 +2,11 @@
 
 ### Hi!
 
-I'm Vegard. I work as a software engineer at [Dune Analytics](https://careers.duneanalytics.com/), where I mostly write code in Go. I'm currently trying to learn more about databases!
+I'm Vegard. I work as a software engineer at [Dune Analytics](https://careers.duneanalytics.com/), where I'm a heavy user of SQL and write code in Go. I'm currently trying to learn more about databases!
 
 I track things I learn at [til.vegardstikbakke.com](https://til.vegardstikbakke.com).
+
+I'm working on making a SQL database at [github.com/vegarsti/sql/](https://github.com/vegarsti/sql/).
 
 I have a [website](https://www.vegardstikbakke.com/). My favorite posts are
 - [Problem solving with Unix commands](https://www.vegardstikbakke.com/unix/)
