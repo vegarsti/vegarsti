@@ -6,7 +6,7 @@ I'm Vegard. I work as a software engineer at [Dune Analytics](https://careers.du
 
 I track things I learn at [til.vegardstikbakke.com](https://til.vegardstikbakke.com).
 
-I'm working on making a SQL database at [github.com/vegarsti/sql/](https://github.com/vegarsti/sql/).
+I'm making a SQL database at [github.com/vegarsti/sql/](https://github.com/vegarsti/sql/).
 
 I have a [website](https://www.vegardstikbakke.com/). My favorite posts are
 - [Problem solving with Unix commands](https://www.vegardstikbakke.com/unix/)
