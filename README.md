@@ -11,6 +11,7 @@ I'm making a SQL database at [github.com/vegarsti/sql/](https://github.com/vegar
 I have a [website](https://www.vegardstikbakke.com/). My favorite posts are
 - [Problem solving with Unix commands](https://www.vegardstikbakke.com/unix/)
 - [How do Unix pipes work?](https://www.vegardstikbakke.com/how-do-pipes-work-sigpipe/)
-- [Books I read in 2020](https://www.vegardstikbakke.com/books-2020/)
 - [I fixed a bug in Python!](https://www.vegardstikbakke.com/python-contribution/)
+- [Books I read in 2021](https://www.vegardstikbakke.com/books-2021/)
+- [Books I read in 2020](https://www.vegardstikbakke.com/books-2020/)
 - [Books I read in 2019](https://www.vegardstikbakke.com/books-2019/)
