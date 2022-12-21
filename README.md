@@ -2,7 +2,8 @@
 
 ### Hi!
 
-I'm Vegard. I work as a software engineer at [Dune](https://dune.com/careers), where I'm a heavy user of SQL and write code in Kotlin and Go. I'm currently trying to learn more about databases!
+I'm Vegard. I work as a software engineer at [Dune](https://dune.com/careers), where I work on streaming Spark jobs for big crypto datasets, and the automation and management of these.
+I write a lot of SQL and Kotlin, and some Go.
 
 I track things I learn at [til.vegardstikbakke.com](https://til.vegardstikbakke.com).
 
