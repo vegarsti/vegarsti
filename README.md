@@ -9,7 +9,7 @@ I track things I learn at [til.vegardstikbakke.com](https://til.vegardstikbakke.
 
 I'm making a SQL database at [github.com/vegarsti/sql/](https://github.com/vegarsti/sql/).
 
-I have a [website](https://www.vegardstikbakke.com/). My favorite posts are
+I have a [blog with a few posts](https://www.vegardstikbakke.com/). My favorites are
 - [Problem solving with Unix commands](https://www.vegardstikbakke.com/unix/)
 - [How do Unix pipes work?](https://www.vegardstikbakke.com/how-do-pipes-work-sigpipe/)
 - [I fixed a bug in Python!](https://www.vegardstikbakke.com/python-contribution/)
