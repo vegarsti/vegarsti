@@ -2,8 +2,8 @@
 
 ### Hi!
 
-I'm Vegard. I work as a software engineer at [Dune](https://dune.com/careers), where I work on streaming ETL jobs for big datasets, and the automation and management of these.
-I write a lot of SQL and Kotlin, and recently Python, and some Go.
+I work as a software engineer at [Dune](https://dune.com/careers), where I work on streaming ETL jobs for big datasets, and the automation and management of these.
+I write a lot of SQL and Kotlin, some Python, and some Go.
 
 I track things I learn at [til.vegardstikbakke.com](https://til.vegardstikbakke.com).
 
