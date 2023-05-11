@@ -1,8 +1,4 @@
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vegarsti&layout=compact&exclude_repo=thesis,fhtboost,mal&langs_count=6" align="right"> -->
-
-### Hi!
-
-I work as a software engineer at [Dune](https://dune.com/careers), where I work on streaming ETL jobs for big datasets, and the automation and management of these.
+I'm a software engineer at [Dune](https://dune.com/careers), where I work on streaming ETL jobs for big datasets, and the automation and management of these.
 I write a lot of SQL and Kotlin, some Python, and some Go.
 
 I track things I learn at [til.vegardstikbakke.com](https://til.vegardstikbakke.com).
