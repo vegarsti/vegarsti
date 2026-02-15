@@ -1,4 +1,4 @@
-I'm a software engineer at [Dune](https://dune.com/careers).
+I'm a software engineer.
 I write Rust, Go, and SQL.
 
 Open source PRs merged:
